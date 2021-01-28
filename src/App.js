@@ -9,11 +9,9 @@ const App = () => {
         <>
             <Header/>
             <main>
-                <Container>
                     <Switch>
                         <Route exact path='/' component={Home}/>
                     </Switch>
-                </Container>
             </main>
         </>
     )

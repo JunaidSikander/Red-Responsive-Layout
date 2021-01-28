@@ -20,6 +20,24 @@ code {
   background-color: #c0392b;
 }
 
-main {
-  height: 80vh;
+/*main {*/
+/*  height: 80vh;*/
+/*}*/
+
+#banner {
+  background: url('./assets/images/banner.jpg') no-repeat 0 0;
+  background-size: cover;
+}
+
+#banner-card {
+  opacity: 0.8;
+}
+
+#banner-card-header {
+  font-size: 3rem;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#banner-card-body {
+  background-color: rgba(231, 76, 60, 0.5);
 }
