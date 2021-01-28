@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar-color {
+  background-color: #e74c3c;
+}
+
+#navlink:hover{
+  background-color: #c0392b;
+}
+
+main {
+  height: 80vh;
+}
